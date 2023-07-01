@@ -47,7 +47,7 @@ Additional frameworks, libraries, and modules used include:
 - ROS (see https://www.ros.org/);
 - PlatformIO (see https://platformio.org/);
 - OpenCV (see https://opencv.org/); 
-- MoveIt (see https://moveit.picknik.ai/main/index.html); and,
+- MoveIt (see https://moveit.picknik.ai/); and,
 - Unity (see https://unity.com/). 
 
 ## Credit
